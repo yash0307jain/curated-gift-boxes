@@ -1,0 +1,343 @@
+,ProductId,ProductName,Cost,Price,Rating,ProductTag,AvalQuantity,BoxDimensions
+0,245,Guatemalan Signature Roast Ground Coffee,13.78,25.99,4.4427,"coffee, ground",93,8x4x3
+1,278,Los Gigantes Colombia (Coffee Beans),10.75,20.0,4.3185,"coffee, artisanal",5,6x3x2
+2,351,Rowkin Bit Charge Stereo (Silver),64.0,102.99,4.0,music,6,
+3,424,Chocolate Fruit and Nut Dragee Sampler,21.0,35.0,4.4643,sweet,12,
+4,700,Pro Lens Kit for Phone Camera,24.5,42.99,4.3588,photography,1,8x4x3
+5,744,Color i‑Type Film,13.25,19.99,4.3611,photography,57,3.94x0.79x4.84
+6,1002,Hawaiian Sea Salt Caramel - 1.5 oz. tin,4.18,14.95,4.1827,sweet,285,2x2x2
+7,1014,Rowkin Bit Stereo (Gold),40.0,102.99,5.0,music,1,
+8,1090,ASCENT MICRO,55.0,122.99,4.8125,music,5,
+9,1091,Elite 65t Wireless Ear buds,69.99,119.99,3.6667,music,6,7x5x3
+10,1101,Ascent Charge+ Black,80.0,162.99,5.0,music,4,
+11,1102,Ascent Charge+ Slate,80.0,162.99,4.0,music,1,
+12,1107,OneStep+ i-Type Camera- Black,104.99,142.99,4.0833,photography,17,4.21x5.04x6.14
+13,1179,Gold Flask Funnel by Izola,6.5,18.0,4.1429,"hard liquor,accessory,LiquorAccessory",25,1.14x2.16x2.9
+14,1183,Wicked Bone Smart Pet Toy,48.0,102.0,3.6429,"smart product, pets",1,8.3x4.7x3.5
+15,1189,Nixplay Iris Cloud Frame,139.99,192.99,4.8,smart product,1,
+16,1195,Cross Pen with TrackR (comes in MEDIUM box),47.5,103.0,4.1667,"pens,gadget",10,8x5x2.5
+17,1200,Handmade Wooden Coasters,15.0,29.0,3.5,homeware,27,3.5x3.5x1
+18,1201,Geometric Tea Light Holder,11.0,22.0,0.0,homeware,42,3x3x3
+19,1205,Smart Device,37.0,102.0,4.0294,smart product,85,3x4x3
+20,1220,Toketee (Coffee Beans),7.63,20.75,4.505,Artisanal,25,
+21,1260,Aguas Altas Guatemalan Coffee (Medium Roast),1.8,5.45,3.8223,instant,671,0.98x3.74x7.3
+22,1308,Toketee (Ground Coffee),7.63,20.75,4.3468,Coffee,25,
+23,1319,Mini Smart Ball (blue)- Ages: 7+,37.5,52.99,4.069,"kids,7,8,9,10,11",8,
+24,1323,Everyday English Breakfast Tea Pyramid Bags (TIN),6.28,11.98,4.5294,Tea,178,5x4x4
+25,1636,Liquor Pourers Set of 2,4.94,12.94,4.25,"wine, accessory,LiquorAccessory",36,
+26,1768,Jogger Plus Headset,19.0,32.99,3.95,music,9,6.50x5x1.7
+27,1769,Active Noise Cancelling Bluetooth Headset,30.0,52.99,4.64,music,6,8.6x6.6x2
+28,1786,Salut Flask (3oz) by Izola,12.0,27.0,4.1111,"hard liquor,accessory,LiquorAccessory",52,4.72x3.93x3.93
+29,1800,Indoor Camera,38.99,62.99,4.8333,smart product,1,
+30,1804,Cryosphere,20.0,43.0,3.8529,health and fitness,16,5x5x4
+31,1826,Icon Au Gold Infuser with Tray,15.68,33.0,5.0,"Tea,Decaf",15,2.6x3x7.25
+32,1840,WHISKYLOVER™ Black Tumblers and Stones,30.0,68.0,4.3548,"Hard Liquor ; Accessory,LiquorAccessory",2,
+33,1848,Orbits Eye Stones,12.6,23.0,3.8039,"health and fitness,",4,
+34,1858,Duo Tea Notes BG,2.75,8.0,4.6667,Tea ; Tea Bags,3,3.3x3.8x4.6
+35,1859,Mini Signature Box (Five Pyramid Bags),5.61,15.0,4.6178,tea,812,5x4x2
+36,1863,Scout Charger,23.0,52.99,4.5455,"gadget,outdoor",41,7x3.5x1
+37,1902,Truly Wireless Earbuds -TWS105,23.0,52.99,4.4459,music,2,
+38,1903,Sports Headphones with Microphone (E171),9.0,17.99,3.1667,music,3,‎4.72x1.38x1.02
+39,1904,Waterproof Sports Headphones (TR509),15.0,27.99,3.0,music,2,
+40,1909,Odeme Gold Flask Pink Box,12.5,37.5,2.6667,"hard liquor,accessory,,LiquorAccessory",23,4.72x3.93x3.93
+41,1910,Odeme Flask Funnel Pink Box,4.5,13.0,2.5,"hard liquor,accessory,,LiquorAccessory",23,1.14x2.16x2.9
+42,1985,Petite Presentation Box Herbal Retreat Tea (Pyramid Bags),9.35,25.0,4.5994,"decaf,",827,8x4x2
+43,1988,Kati Steeping Cup and Infuser Noir,11.0,20.0,3.0,"Tea,decaf",1,3.75x3.5x5.75
+44,1995,Polaroid Zip Mobile Photo Printer,77.8,102.99,4.5,photography,1,
+45,1996,Polaroid Zip-Zink 20 sheet Photo Paper,8.75,17.99,4.8333,photography,6,
+46,1997,Canon Ivy Printer (Mint Green),97.5,142.99,5.0,photography,2,
+47,1998,Canon Ivy Zink Photo Paper,7.99,12.99,5.0,photography,1,
+48,2000,BioLite FlexLight,9.27,17.95,5.0,"gadget,outdoor",5,
+49,2001,BioLite Solar Lantern,16.3,27.95,5.0,"gadget,outdoor",1,
+50,2038,Truly Wireless Earphones - TWS109,23.0,60.0,4.4833,music,14,4.30x6.50x1.14
+51,2076,Serenity Spa Tower,25.0,53.0,4.2782,"health and fitness,,",592,2x2x11
+52,2080,Raw Honey Sticks,5.75,15.5,4.0842,healthy treat,188,2x1x7
+53,2088,Instant coffee- 5 pack,12.0,20.0,4.0323,Instant,114,4x4x1
+54,2132,ACE Omni-roast (Whole-bean Coffee),12.0,22.0,4.6577,"coffee,artisanal",3,6x3x2
+55,2169,Waterproof Wireless Door Bell,8.5,17.99,4.125,gadget,32,4x5x3
+56,2192,Amber LED Stick Anywhere Nightlight,7.15,13.99,4.6667,gadget,5,
+57,2233,Icon Stainless Loose Tea Infuser,6.27,17.0,3.5,Tea,30,7.75x3x1.5
+58,2240,Pink Flamingos,6.63,12.95,3.7,Sweet,28,2x2x2
+59,2241,Pink Diamonds,6.63,12.95,4.2222,Sweet,27,2x2x2
+60,2251,Napa Wine Chiller,14.29,28.99,4.25,"wine,accessory,LiquorAccessory",302,3.5x3.5x3.5
+61,2253,Bottle Opener Coasters,14.29,28.99,3.8214,"accessory,hard liquor,wine,LiquorAccessory",33,1x4x4
+62,2268,"""Home Sweet Home"" Tea Towel",7.0,21.0,4.2,"tea,accessory",3,4.5x2.5x1
+63,2296,The Kena Squeaky Toy,0.0,17.0,4.0957,pets,1,
+64,2307,Synth Kit- Ages: 12+,17.5,37.99,4.3333,"kids,12,13,14",2,
+65,2311,Great Minds Puzzle (Set of 5)- Ages: 8+,7.5,17.99,4.625,"kids,8,9,10",2,
+66,2313,STEM Test Tube Jigsaw Puzzle- Ages:8+,2.5,7.99,3.1429,"kids,8,9,10",5,
+67,2318,Solar Lamp- Ages: 4+,12.0,29.65,3.3333,"kids,4,5,6",31,
+68,2345,Premium Chestnut Honey,11.62,19.0,4.3051,healthy treat,104,3.15x3.15x3.74
+69,2352,Wine Saver Black,7.31,20.46,4.3661,"wine,accessory,,LiquorAccessory",44,3.4x1.7x8.8
+70,2378,Moonshine Mason Jar,9.0,18.0,3.9412,sweet,1,
+71,2390,LOOK Smart Indoor Camera HD,24.0,53.0,4.1429,smart product,37,
+72,2426,Ethiopia Guji Light Roast (Whole-bean Coffee),8.5,22.0,4.3258,"coffee, artisanal",286,3.5x2.75x8
+73,2457,Petite Presentation Box Warming Joy (Pyramid Bags),11.0,23.0,4.6634,tea,1,5x4x2
+74,2506,PRISMA 800 Color+ White Bulb,6.0,21.99,4.0886,Smart Product,65,
+75,2507,Simple & Twist Lamp,28.62,68.93,5.0,"smart product,outdoor",7,10x5x4.5
+76,2536,Echo Show 5 Compact smart display with Alexa - Charcoal,44.99,82.99,5.0,smart product,2,6x6x3
+77,2594,Frida Coffee Blend Medium Roast (Ground),8.5,18.0,4.2928,"coffee, ground",150,3.5x2.75x8
+78,2817,TP-Link Kasa Smart Plug (2-Pack),34.5,47.68,4.1395,smart product,373,
+79,2825,Organic Italian Roast dark roast Whole-bean Coffee,5.62,15.95,4.4486,"coffee,artisanal",116,2.25 x3.75 x8.25i
+80,2838,Scalp Mini Head & Body Massager (with Bamboo Charging Base),45.0,92.99,2.7059,health and fitness,37,4.3x4.7x3.2
+81,2839,SleepPhones Classic,24.0,42.95,1.6667,health and fitness,48,6x4x2
+82,2840,Humbird Conduction Speaker,16.0,42.0,4.1488,music,429,
+83,2841,ShutterGrip2 Secure Camera Handle,27.0,42.95,3.7432,photography,538,
+84,2887,Limited Reserve Organic Extra Virgin Olive Oil,22.0,41.0,4.5833,"savoury,,",101,3.15x3.15x7.87
+85,2934,Peace of Mind Body Soak With Lavender Buds,5.0,13.0,4.4242,",health and fitness,",222,2.5x2.5x2
+86,2935,Peace of Mind Spa Candle,12.0,24.0,4.6667,",health and fitness,",196,3x3x2
+87,2936,Reusable Spa bag,6.0,13.0,0.0,"health and fitness,",5,
+88,2992,Classic Wooden Assortment Box,8.0,20.0,4.2609,"tea,",2,7x2.5x2
+89,2994,Citrus Ginger Cylinder,7.0,18.0,4.9231,"tea,decaf",2,3 lx 3x 6
+90,2996,Thank You Gift Jar – Chunky Almond Snack,7.65,18.0,4.2714,"healthy treat,",47,3.75x3.75x3
+91,2999,Assorted Collection,13.0,30.0,4.2672,sweet,4,
+92,3002,Doorbell Cam Pro,139.99,203.0,3.6667,smart product,31,
+93,3008,Birthday Gift Jar - Chunky Almond Snack,7.65,18.0,4.3586,"healthy treat,",114,3.75x3.75x3
+94,3041,Polaroid Now- Black,74.99,102.99,4.6875,photography,10,4.96x3.94x6.4
+95,3045,Socks that Save Dogs Gift box( size:M),20.0,42.95,4.6667,"health and fitness,pets",55,4x8.5x2.76
+96,3073,Anti-Shaking Stabilizer Selfie Stick and Tripod,20.0,44.99,4.2696,photography,503,8.46x3.3x1.96
+97,3077,ILuv AudClick2,24.9,42.99,3.7937,music,187,
+98,3080,Starfish Swaddle,8.0,17.99,1.0,"kids,1,2",10,10.5x5x2
+99,3081,Hushh Baby Sound Machine with Night Light,19.5,32.95,3.6667,"kids,1,2,",39,3.5x3.8x1.8
+100,3084,Bear Boogy Tuttle,11.5,24.99,5.0,"kids,1,2,",6,7x3x3
+101,3085,Organic Baby Woody Teether,5.49,13.99,2.0,"kids,1,",7,3x0.75x7
+102,3163,Kentucky Bourbon Infused Honey,8.43,18.88,3.0,",healthy treat",2,
+103,3168,Wine Aerator Original Aervana,55.0,103.0,4.5714,"wine,accessory,LiquorAccessory",18,11.4x5.9x2.5
+104,3184,Carre Whiskey Old Fashioned Glasses,15.48,54.95,3.7143,"Hard Liquor,Accessory,LiquorAccessory",93,4.5x8.75x4.25
+105,3186,Atlas Crystal Whiskey Glasses,10.0,42.95,4.4364,"hard liquor,accessory,,LiquorAccessory",12,4x8x4
+106,3187,Aqua Vitae Octagon Whiskey Glasses,19.71,62.95,4.1304,"hard liquor,accessory,LiquorAccessory",1,5.25x9.25x4
+107,3190,Wicked Ball - Cyclone,26.0,56.99,3.5455,pets,2,4.5x4.5x4.5
+108,3200,Self Cleaning Smart Bottle PureVis square box,66.5,121.0,4.2222,"smart product,health and fitness",3,12x4.125x 3.5
+109,3204,Bunny Wooden Teether (Grey) by Happy Horse,6.75,16.5,0.0,"kids,1,",2,6x4x1
+110,3207,Sparkling Rose,8.5,21.0,5.0,"tea,",48,3x3x3
+111,3208,Birthday Cake,8.5,21.0,5.0,tea,6,3x3x3
+112,3209,Unicorn Tears (unsweetened),8.5,21.0,4.5,tea,57,3x3x3
+113,3211,Whisky Cocktail Pack,14.95,33.0,4.1667,"hard liquor,accessory,LiquorAccessory",4,3.6x3.6 x5
+114,3212,Wine Cocktail Pack,14.95,33.0,3.6667,"wine,accessory,,LiquorAccessory",5,3.6x3.6 x5
+115,3213,Stainless Steal Infuser Ball,3.0,10.0,3.9796,"accessory,,hard liquor,LiquorAccessory",1,
+116,3223,Organic Teething Mitty - Pea Bear,8.49,19.99,0.0,"kids,1,",2,3.5x2x7.5
+117,3240,Doubleback Cabernet Sauvignon,133.58,158.0,0.0,Wine,199,
+118,3255,Stainless Steel Dog Water Bottle (9.5oz),13.25,22.99,4.1351,"pets,",105,
+119,3278,Montecastro Red Wine 2013,22.99,33.99,0.0,Wine,200,
+120,3301,Mumm Brut Napa Valley Prestige,19.99,50.0,0.0,Wine,201,
+121,3328,Finca Decero Remolinos Vineyard Malbec 2017,40.0,60.0,0.0,Wine,203,
+122,3395,"Tart Cherry, Cacao Nib, & Almond Artisan Crisps",3.85,11.0,4.4545,"healthy treat,",39,
+123,3396,Chocolate Cacao Nib Shortbread,3.0,8.99,3.9524,Sweet,36,
+124,3490,Glenfiddich Trio Gift Pack (200 ML),55.99,100.0,0.0,Hard Liquor,206,
+125,3491,Wine Gift Box Set,46.99,100.0,0.0,Wine,205,
+126,3493,Deluxe Table Top Bar,407.99,500.0,0.0,Hard Liquor,208,
+127,3519,Meiomi Pinot Noir,32.0,40.0,5.0,Wine,207,
+128,3520,Party Karaoke Mic and Voice Changer- Ages: 12+,17.0,31.0,4.5,"kids,12,13,14,15,16,17,18,19,20,21,22,",37,
+129,3546,Tom Gore Cabernet Sauvignon,30.6,40.0,0.0,Wine,210,
+130,3571,Codigo 1530 Rosa Tequila,64.99,75.0,0.0,Hard Liquor,211,
+131,3587,Ultimate Athlete Recovery Kit,17.0,34.0,0.0,health and fitness,1,
+132,3591,Focus & Unwind - Everyday Wellbeing,18.5,37.0,0.0,health and fitness,1,
+133,3592,Happy Birthday Care Kit,21.5,43.0,0.0,health and fitness,1,
+134,3595,TracerBot - Ages: 5+,9.0,22.99,3.0,"kids,5,6,7,8",1,
+135,3596,Construct a Truck/Crane- Ages: 5+,10.0,27.99,3.0,"kids,5,6,7,8,",11,10x7x6
+136,3597,Hyper Runner Stunt - Ages: 8+,15.0,32.99,5.0,"kids,8,9,10,",1,
+137,3598,Johnnie Walker 18 Year Scotch Whisky,109.99,150.99,0.0,Hard Liquor,210,
+138,3599,Aquinas Cabernet Sauvignon 2017,35.99,40.0,5.0,Wine,211,
+139,3600,Worldly Whisky Rock Glass Gift Box,105.0,150.0,0.0,Hard Liquor,213,
+140,3610,Plant Based Luxury Candle Botanic Oasis,21.0,45.0,3.7143,"health and fitness,,",214,3.75x3.75x4.1
+141,3625,Johnnie Walker- A Song of Fire,55.0,75.0,0.0,Hard Liquor,220,
+142,3628,PINK Pack of Three Workout Bands (Several Sizes),19.95,52.95,2.7143,"health and fitness,,",7,
+143,3629,Hot & Cold Massager,30.0,62.99,3.5,"health and fitness,",3,3.5x 2.75x 9
+144,3630,Fit Relief,62.1,138.0,3.75,"smart product,health and fitness",1,
+145,3631,Boutique Exclusive So'pure Box- Large Sophie (Limited),0.0,24.99,2.3333,"kids,1,",16,9x6x2
+146,3635,Self Cleaning Smart Bottle Movement PureVis round box,54.6,101.0,4.3,"smart product,health and fitness",9,12x4.125x3.5
+147,3641,Holiday Wishes Gift Jar - Chunky Almond Snack,7.65,18.0,4.0595,"healthy treat,healthy treat,",3,3.75x3.75x3
+148,3660,Red Wine - Round Pond Estate Kith & Kin Cabernet,47.73,57.73,0.0,Wine,221,
+149,3661,The Essential Smart Personal Air Purifier,90.3,133.0,3.7619,"smart product,health and fitness",3,9.5x8.75x4.5
+150,3662,Red Wine - Domaine De La Presidente Chateauneuf Du Pape Wine with Gift Bag,57.0,67.0,0.0,Wine,222,
+151,3663,Wine Purifier,52.02,80.0,4.2778,"wine,accessory,,LiquorAccessory",224,5.7x 4.4x4.4
+152,3675,OpenMove Lifestyle Headphones,40.0,82.95,4.4118,"music,health and fitness",298,4.7x2.3x6.1
+153,3677,The Luxe Collection Mixed Nuts Jar,3.25,9.5,4.4449,"savoury,",6,3x4x3
+154,3684,SoundLink Color Bluetooth speaker II,79.0,132.0,5.0,Music,16,8x6x3
+155,3691,Echo Dot (4th Gen) Smart speaker with Alexa - Twilight Blue,28.99,59.99,5.0,"smart product,music",3,4x4x4
+156,3694,Echo Dot (4th Gen) Smart speaker with Alexa - Glacier White,34.99,59.99,0.0,"smart product,music",3,
+157,3696,Echo Dot (3rd Gen) - Smart speaker with Alexa - Heather Gray,18.99,42.99,5.0,"smart product,music",1,4x4x4
+158,3698,Echo Show 8 -- HD Smart Display with Alexa- Sandstone,59.99,129.99,4.3333,smart product,4,
+159,3700,TP-Link Kasa Smart Plug HS105 (white box),7.75,21.99,4.3172,smart product,1,
+160,3704,Whisky - Dewar's White Label,43.0,55.0,0.0,Hard Liquor,223,
+161,3716,TrueFree2 Sports Earbuds,16.0,39.0,4.4681,music,210,0.9x 0.86x0.62
+162,3717,TrueFree Plus,13.0,39.0,4.2254,music,237,0.9x 0.86x0.62
+163,3724,Red Wine - Marchesi Di Barolo Dolcetto Madonna Del Dono,34.0,45.0,0.0,Wine,224,
+164,3736,Solo3 Wireless Headphones,119.0,202.95,4.1667,music,28,7x5x4
+165,3770,Reusable Coffee Cups- Large size,19.6,39.0,4.5517,coffee,1,
+166,3773,The Game of Wolf (14+),12.5,24.99,5.0,"kids,14,15,16,17,18,19",25,
+167,3774,You Bet-Cha! Game (14+),12.5,24.99,0.0,"kids,14,15,16,17,18,19",1,
+168,3775,Big Book of Family Games (8+),9.99,20.0,5.0,"kids,8,9,10,11,12,13,14,15,16,17,18,19",88,8.5x5.5x1
+169,3798,Mug2-Black,79.96,132.95,2.5,smart product,140,6.13x6.13x6.06
+170,3799,Tall Travel Mug2. 12oz,143.96,182.95,3.0,smart product,7,5.88x5.75x9.88
+171,3800,Mug2 Metallic Collection- Copper 10oz,103.96,132.95,5.0,smart product,16,6.13x6.13x6.06
+172,3807,Whiskey- Green Spot Single Pure Pot Still Irish Whiskey,74.99,100.0,0.0,Hard Liquor,226,
+173,3808,Whiskey - BenRiach 20 Year Single Malt Scotch,220.0,255.0,0.0,Hard Liquor,227,
+174,3809,Glenfiddich 14 Year Bourbon Barrel Reserve Single Malt Scotch,59.99,100.0,0.0,Hard Liquor,228,
+175,3810,Johnnie Walker Blue Label set of Four 50ml,102.0,150.0,0.0,Hard Liquor,230,
+176,3812,Melting Parmesan CheeseSticks,2.25,7.66,4.4884,savoury,1,
+177,3823,Wine Saver and 1 Stopper -Stainless Steel,11.46,29.99,4.4767,"wine,accessory,LiquorAccessory",127,3.4x1.7x8.8
+178,3848,Reusable Coffee Cups -Medium size,18.9,37.0,4.2759,coffee,64,6x4x4
+179,3899,So'pure Teething Ring -Small Sophie,9.5,17.8,0.0,"kids,1,",8,6x5x2
+180,3911,TP-Link Kasa Smart Wi-Fi Light Bulb,13.99,20.0,5.0,smart product,2,6x4x3
+181,3927,Kool Kreepers - Color Tracer Chameleon,12.5,32.99,5.0,"kids,3,4,5,6",8,7x6x3.5
+182,3931,JBL Clip4,51.5,77.95,5.0,music,147,
+183,3932,JBL Flip5,84.5,132.95,4.8571,music,185,
+184,3933,JBL Tune 660NC,49.5,142.98,5.0,music,97,
+185,3943,Banda Bib -2pack,4.29,20.99,5.0,"kids,1,2,",1,0.5x7.5x10
+186,4037,Jam HangUp (Gray),13.76,33.0,4.1765,music,1,
+187,4038,2nd generation Smart Button,14.0,29.99,3.5732,smart product,291,
+188,4040,Chipolo Smart Card,16.5,33.0,4.0,smart product,639,4.25x4.25x1.25
+189,4098,The Original Smart Wallet For Men (small box),32.0,122.0,2.1538,smart product,352,5 inx4 inx1.5 in
+190,4099,The Trail Trackable Smart Wallet for Women  (Large Box),39.0,102.0,3.4167,smart product,270,5 inx4 inx1.5 in
+191,4108,The Personal Robot-Cameraman,10.71,30.0,4.0612,photography,368,7x4x4
+192,4111,UFO 4000 Mini Drone with LED lights,0.0,52.99,0.0,kids,1,
+193,4132,Sea Salt Roasted Cashews,5.99,13.0,4.3421,"savoury,gluten free,non gmo,kosher,vegan",631,6.62x6.18x4.12
+194,4142,Insulated Bottle with Wooden Cap,13.0,30.95,4.1,"coffee,tea,health and fitness,outdoor",3,
+195,4195,Tea Leaf Soy Candle,6.0,15.5,4.0,health and fitness,141,2.25x2.25x3.25
+196,4204,Quick Cool Gym Towel,9.0,18.0,3.575,health and fitness,3,10x6x1
+197,4205,Kids Poncho (Ages: 2-4),15.0,30.0,5.0,kids,15,
+198,4227,Original Speculoos Cookies- 4.8oz,6.0,12.59,4.253,sweet,4,3.25x2x6.5
+199,4228,Original Speculoos Cookie Gift box,14.3,25.19,4.2727,sweet,5,3.25x2x6.5
+200,4229,Vanilla Speculoos Cookie Gift Box,14.3,25.19,4.2143,sweet,5,3.25x2x6.5
+201,4233,Mermazing Wine Tumbler,14.75,34.95,4.4444,wine,38,
+202,4235,Insulated French Press To-Go,17.0,32.99,3.8125,coffee,38,3.1x3.1x6.8
+203,4242,EasySelfie Selfie Stick,20.0,47.99,4.1707,photography,637,3.9x3.5x2.9
+204,4245,Deep Rest Eye Pillow - Mauve Dot,13.0,27.84,4.1923,health and fitness,1,
+205,4254,The Luxe Collection Cocoa Shortbread,3.95,10.9,4.262,sweet,2,5.5x4.25x2.125
+206,4255,The Luxe Collection Raspberry Jam Petites,1.79,6.58,4.3333,sweet,1,9x2.25x0.5
+207,4271,Glacier Rocks Stainless Steel Sphere,10.44,17.99,4.087,"hard liquor,accessory,LiquorAccessory",16,3.3x2.3x4.8
+208,4273,Black Stoneware Tumblers,12.49,23.99,4.3846,"hard liquor,accessory,LiquorAccessory",1,7.3x3.8x4.7
+209,4274,Portable Diffuser w/Travel Pack,24.98,52.95,0.0,health and fitness,1,
+210,4275,Forest Friends KidSafe Diffuser,29.98,62.95,0.0,kids,2,
+211,4277,Collapsible Drink Tumbler - Yukon,11.25,30.95,3.9922,"health and fitness,outdoor",129,5.5x4.0x1.5
+212,4279,Rejuvenating Scalp Massager,9.0,18.0,4.5,health and fitness,1,
+213,4282,Take Charge Power Bank,23.0,50.0,3.8182,"outdoor,gadget",1,1.25x5x8
+214,4311,The Luxe Collection Almond Butter Cookies,1.79,6.58,4.8,sweet,1,9x2.25 x0.5
+215,4312,The Luxe Collection Sour Lemon Soft Cookies,3.1,6.2,4.35,sweet,8,6x5x1
+216,4314,The Luxe Collection Tomato & Oregano Breadsticks,2.85,8.7,4.0,savoury,27,11x4x1.75
+217,4316,Stainless Steel Traveler - Azurite Marble,17.5,38.0,4.7407,health and fitness,554,3.3x3.3x8.2
+218,4319,Rosé All Day 2-piece Bento Box (contains alcohol),15.47,23.0,4.0,sweet,32,7x4x3
+219,4320,"But first, Rosé Roses (contains alcohol)",3.47,11.95,5.0,sweet,1,
+220,4333,Peace on Earth Soy Candle,7.0,17.0,3.25,health and fitness,173,3x3x2
+221,4441,Finger Paint - Ages: 3+,9.5,18.99,5.0,"3,4,5,6,7,8,kids",19,7x3x4
+222,4443,Craft Old Fashioned Cocktail Kit,12.0,27.0,4.0357,"hard liquor,accessory,LiquorAccessory",258,4.5x3.25x1.13
+223,4444,Virtual Happy Hour Cocktail Kit,12.0,27.0,4.0885,"hard liquor,accessory,LiquorAccessory",233,4.5x3.25x1.13
+224,4445,Finley the Fox- Organic Baby Teething Wristlet Rattle,8.49,21.99,0.0,"kids,1",13,4.5x1x5.5
+225,4486,Big White Box,14.8,32.0,0.0,"kids,1",16,9x6x2
+226,4488,So'pure Natur'rings Rattle (Limited),13.25,20.0,5.0,"kids,1",27,8x5x2
+227,4498,Knit Baby Blanket (limited),0.0,44.0,0.0,"kids,1",8,
+228,4499,Forever Swaddle + Hat Set,12.5,27.99,0.0,"kids,1",12,
+229,4500,Baby Inkless Print Kit,4.49,12.99,0.0,"kids,1",11,8.7x 6.3x0.1
+230,4519,Admiral Stainless Steel Flask And Traveling Case,13.99,27.99,3.9,hard liquor,88,4.9x 1.6x 7.1
+231,4520,"Glacier Rocks - Small Stainless Steel Cubes, 4 Piece",21.44,44.99,4.1538,hard liquor,131,5x4.875x1.25
+232,4528,Krypton True Wireless Earbuds,65.0,102.99,0.0,music,1,
+233,4529,Wireless Power Bank,30.0,60.0,0.0,"gadget,outdoor",1,
+234,4536,Momma Needs a Quick Break!,9.99,19.0,3.1429,health and fitness,4,
+235,4560,Relax Tea Pyramid Bags (TIN),6.19,12.37,4.6154,"tea,tea bags",585,5x4x4
+236,4561,Sleep Tea Pyramid Bags (TIN),6.56,12.37,0.0,"tea,tea bags",16,5x4x4
+237,4562,Immunity Tea Pyramid Bags (TIN),6.56,12.37,4.25,"tea,tea bags",7,5x4x4
+238,4607,Kasa Smart Wi-Fi Plug Mini (HS105),9.99,20.0,4.3506,smart product,40,3.6x5.6x3.6
+239,4608,JLab Go Air True Wireless In-Ear Headphones,23.11,32.99,3.4286,music,603,1.4x5x2.7
+240,4609,Summit Copper Stemless Wine Glasses,22.99,45.99,4.4667,"wine,accessory,LiquorAccessory",57,7x3.6x5
+241,4610,Admiral Crystal Glasses,12.99,24.99,4.4912,"hard liquor,accessory,LiquorAccessory",1,8.1x 4x4.8
+242,4619,The ChewBox,7.9,14.99,0.0,"kids,0,1",6,2.2x2.8x5.8
+243,4620,Porter Ceramic Mug -Charcoal,12.5,28.0,4.6667,homeware,140,4.4x3x3
+244,4621,Porter Ceramic Mug - Gray,12.5,28.0,4.8571,homeware,135,4.4x3x3
+245,4622,The Hydropod,12.5,28.0,0.0,health and fitness,91,3.75x4.25x4.25
+246,4626,Baby Prints keepsake frame,7.49,17.99,0.0,"kids,0,1",5,9.2x1.6x6.6
+247,4627,Paw Print Clean- touch ink pad,2.99,8.99,4.0,pets,268,4.5x0.88x7.50
+248,4628,Baby Wooden Photo Shapes Puzzle,7.5,17.99,0.0,"kids,1,2",12,14.25x1x4
+249,4629,Baby Keepsake Classic White Wooden Frame Kit,8.95,16.99,0.0,"kids,0,1,2",27,12x9x2
+250,4638,Demoiselle Mineral Soak with green tea (limited),0.0,23.0,3.6667,health and fitness,1,
+251,4641,Take-Along Shape Sorter Baby and Toddler Toy (limited),0.0,27.79,0.0,"1,2,Kids",1,
+252,4642,Sing-Along Nursery Rhymes Sound Puzzle (limited),0.0,20.0,0.0,"2,3,kids",1,
+253,4643,Zoo Animals Sound Puzzle (limited),0.0,17.99,0.0,"2,3,kids",1,
+254,4647,Honduras Gloria Ventura (Whole-bean coffee),8.5,21.0,3.9231,"coffee,artisanal",1,3.5x2.75x8
+255,4678,Red wine - Dunn Howell Mountain Cabernet Sauvignon Vintage,187.23,200.0,0.0,wine,1,
+256,4693,Quinoa Granola,6.0,15.0,3.75,healthy treat,2,
+257,4700,Impossibly good trail mix,4.95,10.99,4.4346,healthy treat,373,5.75x2.5x 2.5
+258,4711,VinOstream Bottle Aerator and Non Drip Dispenser,15.0,30.0,4.8095,"wine,accessory,LiquorAccessory",3,5.91x1.57x2.76
+259,4717,Vagnbys 7-in-1 Wine Decantiere,20.0,40.0,4.4444,"wine,accessory,LiquorAccessory",11,
+260,4722,Outset Whiskey Glasses (set of 2),16.0,32.99,4.4545,"hard liquor,accessory,LiquorAccessory",4,3.75x2.75x4
+261,4724,Modern Mud Cloth Black Dog Bone Squeaky Toy,8.0,19.0,5.0,pets,1,4.5x7.5x1
+262,4725,Upcycled Denim Dog Bandana,13.0,29.0,0.0,pets,4,4.5x2.5x1
+263,4726,Upcycled Denim Dog Bone Squeaky Toy,8.0,19.0,0.0,pets,2,4.5x7.5x1
+264,4727,Upcycled Denim Stripe Dog Bandana,13.0,29.0,0.0,pets,2,4.5x2.5x1
+265,4728,Upcycled Denim Stripe Dog Squeaky Toy,8.0,19.0,4.6667,pets,1,4.5x7.5x1
+266,4729,Pop-Up Wallet,14.0,27.99,4.0851,gadget,330,3.6x5.59x0.6
+267,4730,Leather Pop-Up Wallet,21.0,33.0,3.8182,gadget,101,3.6x5.59x0.6
+268,4759,Flexible Wine Cooler Artico Black,13.5,37.5,4.0,"wine,accessory,LiquorAccessory",165,6.25x2.2x9.25
+269,4763,Glass Markers Party People,5.0,12.0,3.6389,"wine,accessory,LiquorAccessory",3,5.75x6x7.1
+270,4766,Copper Nicholas Beverage Cup,13.0,26.0,3.9655,"health and fitness,homeware",3,4.5x 3x 3
+271,4782,Toasted Coconut Roasted Cashews,5.99,13.0,5.0,healthy treat,54,6.62x6.18x4.12
+272,4783,Cocoa Dusted Wrapped Cashews,5.99,13.0,4.7857,healthy treat,53,6.62x6.18x4.12
+273,4784,Golden Turmeric Wrapped Cashews,5.99,13.0,3.5385,savoury,56,6.62x6.18x4.12
+274,4825,Hawaiian Golden Blend Medium Roast Ground Coffee,5.29,13.95,4.4215,"coffee,ground",106,2.25x 3.75x 7.75
+275,4829,French Press-to-go,16.5,36.0,0.0,coffee,364,9x7x4
+276,4830,Nova Crystal Whiskey Glasses,10.95,24.95,4.6935,hard liquor,186,3.5x7x4
+277,4831,Revere Whiskey Old Fashioned Glasses,8.0,45.95,4.1698,hard liquor,188,3.75x7.25x4
+278,4862,TP-Link Kasa Smart Plug (EP10),10.0,20.0,3.75,smart product,402,
+279,4865,Relaxing Lavender Eye Mask in William Morris Snakeshead with Rich Velvet Backing,17.35,37.7,3.9744,Health and fitness,14,
+280,4868,Bandana Bib with Teether 4-Pack,9.99,19.98,5.0,Kids,11,0.5x8 x10
+281,4873,Aberdeen Plaid Flannel Dog Bandana,13.0,29.0,0.0,Pets,10,4.5x2.5x1
+282,4875,Black and White Check Flannel Bandana,13.0,29.0,0.0,Pets,8,4.5x2.5x1
+283,4876,Buffalo Check Dog Bone Squeaky Toy  Buffalo Black and White,8.0,19.0,5.0,Pets,7,4.5x7.5x1
+284,4877,Juniper Plaid Flannel Dog Bandana,13.0,29.0,0.0,Pets,9,4.5x2.5x1
+285,4878,Red and Black Check Dog Bone Squeaky Toy,8.0,19.0,5.0,Pets,2,4.5x7.5x1
+286,4879,4 oz Sea Salt & Black Pepper Toasted Cashews Gourmet Box,5.25,13.5,4.6667,Savoury,63,6.5x3.25x1.5
+287,4884,Deep Scalp Massager,15.0,30.0,0.0,Health and fitness,5,6x4x4
+288,4885,Spiked Jade Facial Massager Roller,6.9,13.8,0.0,Health and fitness,1,7x3.5x1.5
+289,4886,USB mug warmer,8.5,17.0,0.0,Smart Product,5,6.5x7x1
+290,4888,Let's Think Portable Conversation Cards,0.0,11.99,0.0,Kids,12,3.52x1.7x0.59
+291,4889,Let's Chat Portable Conversation Starter Cards,0.0,11.99,0.0,Kids,12,8.58x8.93x0.49
+292,4897,Polaroid Now i‑Type Instant Camera,89.99,122.99,0.0,Photography,24,4.96x3.94x6.4
+293,4898,Polaroid Pocket Photo Printer,68.0,102.99,1.0,Photography,23,3.98x6.89x1.81
+294,4899,Polaroid Printer Paper Cartridge ‑ 20 sheets,11.0,16.99,1.0,Photography,28,3.43x5.75x1.34
+295,4900,Polaroid Go Instant Camera,74.99,99.99,0.0,Photography,21,
+296,4901,Polaroid Go Color Film Double Pack,15.59,19.99,0.0,Photography,23,
+297,4902,Socks that protect the arctic (Medium),22.5,34.95,0.0,Health and fitness,25,4x8.5x2.76
+298,4904,Winter Village 3 Piece Candy Bento Box,25.07,32.0,4.75,Sweet,4,
+299,4905,3 Piece Candy Bento Box (contains Alcohol),23.47,30.0,0.0,sweet,98,10x4x3
+300,4909,"LIFVER 8 Packs Absorbent Drink Coaster Sets, Multicolors",11.04,19.99,0.0,homeware,17,5x5x4
+301,4910,Google Nest Smart Thermostat,99.9,129.99,0.0,smart product,12,5x5x2
+302,4912,OontZ Bluetooth Speaker,14.44,23.99,0.0,"speaker,smart product",2,3.5x3.5x5
+303,4913,Bose Quiet Comfort Noise Cancelling Earbuds,199.0,282.0,0.0,"music,smart product",5,6x6x3
+304,4914,Fire 7 tablet,34.99,52.99,0.0,smart product,4,9x6x2
+305,4915,Amazfit Band 5 Fitness Tracker,29.99,42.99,5.0,smart product,2,7x3x1
+306,4916,Echo Dot (4th Gen) Kids - Panda,34.99,62.99,0.0,smart product,4,6.5x4x4
+307,4917,Bose - SoundLink Color Bluetooth speaker II- aqua blue,119.99,132.0,0.0,"Smart Product,music",27,8x6x3
+308,4918,Beats Solo3 Wireless Headphones (Holiday Limited),99.9,199.95,0.0,music,8,7x5x4
+309,4920,Kindle Kids- with rainbow cover,59.99,112.99,0.0,"kids,smart product",2,9x5x1
+310,4921,Glacier Rocks - Hexagonal Ice Cubes (set Of 4),13.74,22.99,4.0,"Hard Liquor,Accessory,LiquorAccessory",61,4.9x 5x1.3
+311,4929,MM Elite Flask Set,14.0,38.0,3.4,"accessory,hard liquor,LiquorAccessory",166,9x7x2
+312,4948,Rose Tea Bears,3.97,8.95,0.0,sweet,15,
+313,4949,Ice Cream Cones,6.63,11.95,0.0,sweet,19,2x2x2
+314,4959,Tenda Mini Smart Wi-Fi Plug SP3,8.5,17.0,3.75,smart product,54,4x3x3
+315,4960,Tenda Mini Smart Wi-Fi Plug SP6,7.19,9.0,4.2,smart product,65,4x3x3
+316,4961,Chamomile - Caffeine Free Teabag Tin,6.85,15.6,0.0,tea,253,2.75x2.75x5.25
+317,4962,English Breakfast - 20 Teabags in Signature Tea Tin,6.85,16.75,5.0,tea,243,2.75x2.75x5.25
+318,4978,TP- Link Kasa Smart WiFi Plug Slim with Energy Monitoring,18.0,28.56,5.0,smart product,111,2.62x1.57x1.5
+319,4988,Kaffe Electric Coffee Grinder,18.0,27.99,2.75,coffee,41,4.25x4.25x7
+320,4991,Aervana Portable Wine Aeration Kit (Black),42.65,79.95,3.7857,"wine,accessory,LiquorAccessory",8,6.81x4.57x2.48
+321,4992,Echo Show 8 -- HD Smart Display with Alexa- Charcoal,59.99,109.99,0.0,smart product,2,8x8x4
+322,4994,"Echo (4th Gen) With premium sound, smart home hub and Alexa-Charcoal",59.99,99.99,0.0,smart product,4,6x8x6
+323,5007,ShutterGrip2 Secure Camera Handle (limited),0.0,42.95,3.9487,photography,192,
+324,5032,Black Stemless Wine Cup,12.75,38.25,4.9091,wine,43,5x3.5x3.5
+325,5043,Stainless Steel Pyrite 10oz Tumbler with Lid,10.0,23.0,4.9167,"wine,accessory,LiquorAccessory",210,3.4x3.3.x6.2
+326,5059,Nicholas Collection Vacuum Wine Saver With 2 Stoppers,7.75,18.5,4.3333,"wine,accessory,LiquorAccessory",60,
+327,5060,Wine Aerator,14.0,27.99,4.0,"wine,accessory,LiquorAccessory",6,
+328,5061,Wine Aerator,12.0,27.0,4.2353,"wine,accessory,LiquorAccessory",16,
+329,5067,Brown Wallet Card Holder,11.0,52.95,0.0,gadget,69,
+330,5068,Espresso Wallet Card Holder,11.0,52.95,0.0,gadget,68,
+331,5069,Black Wallet Card Holder,11.0,42.95,0.0,gadget,65,
+332,5088,Pillow Speaker,24.0,62.9,0.0,music,1,
+333,5089,Vanilla Earl Grey Cookies - Oxford,3.75,10.5,3.8889,sweet,30,
+334,5186,Cacao Banana Crisps,3.71,8.99,0.0,"snacks,healthy,gluten free,poleo,vegan",20,3x5.5x8
+335,5187,Keto 'Everything' Flax Crackers,3.71,8.99,4.5,"snacks,keto,gluten free,poleo,vegan",2,3x5.5x8
+336,5202,Charge Card,29.95,62.9,0.0,smart product,38,
+337,5234,Pecan Shortbread cookies,2.0,9.0,0.0,sweet,36,
+338,5235,Vanilla Bean Shortbread Cookies,3.0,9.0,0.0,sweet,47,
+339,5236,Cocoa Biscuits,2.75,8.5,3.0,sweet,18,
+340,5249,Wine Infused Gourmet Popcorn,6.0,13.0,0.0,savoury,2,"5"" W x 9.4"" H x 3.1"" D"
+341,5250,Whiskey Infused Gourmet Popcorn,5.7,11.99,0.0,savoury,11,"5"" W x 9.4"" H x 3.1"" H"
